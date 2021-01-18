@@ -1,0 +1,8 @@
+[[IntelOpenMP]]
+arch = "x86_64"
+git-tree-sha1 = "18f9f9ea5059b312c930f0a44b16132b490d5cc6"
+os = "macos"
+
+    [[IntelOpenMP.download]]
+    sha256 = "c8ba8c373c40c0826981172dcc4207c58be749434ae79d4c435ec76c04da6ab3"
+    url = "https://github.com/giordano/IntelOpenMP_jll.jl/releases/download/IntelOpenMP-v2018.0.3+2/IntelOpenMP.v2018.0.3.x86_64-apple-darwin.tar.gz"
